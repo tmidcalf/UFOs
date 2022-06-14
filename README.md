@@ -14,13 +14,13 @@ The webpage is available at [https://tmidcalf.github.io/UFOs/](https://tmidcalf.
 
 The initial page and blank search criteria looks like the image below.
 
-![Blank Search Criteria](/assets/images/san-juan-mountains.jpg "Blank Search Criteria")
+![Blank Search Criteria](https://github.com/tmidcalf/UFOs/blob/main/Resources/Filter_Screenshot.png?raw=true "Blank Search Criteria")
 
 To refine the search and filter the data, any user can input a date, city, state, country, or shape, or any combination of the filters into the corresponding text boxes and press enter on their keyboard. The table will then update with results of the inputted search criteria.
 
 For example, if a user wants to know all the triangle shaped UFO sightings in California they would type "CA" into the State text box and "triangle" into the shape text box. The resulting table would look like the following image.
 
-![Example Search Criteria](/assets/images/san-juan-mountains.jpg "Example Search Criteria")
+![Example Search Criteria](https://github.com/tmidcalf/UFOs/blob/main/Resources/Example_Filter_Screenshot.png?raw=true "Example Search Criteria")
 
 ## Summary
 
